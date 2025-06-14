@@ -19,7 +19,7 @@
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=light)](https://skillicons.dev)
 
 ### 👨‍💻 Frontent Launguage:
- [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss,react,redux,typescript,javascript,bootstrap,materialui,html,css,figma&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss,react,redux,typescript,javascript,redis,bootstrap,materialui,html,css,figma&theme=light)](https://skillicons.dev)
 
 ### 🕵️‍♂️ Backend Launguage:
  [![My Skills](https://skillicons.dev/icons?i=mongodb,postman,mysql,nodejs,express&theme=light)](https://skillicons.dev)
