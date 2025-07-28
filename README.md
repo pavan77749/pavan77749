@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Pavan Gupta</h1>
-<h3 align="center">Developer | Building scalable web apps with MERN stack & modern UI/UX design</h3>
+<h3 align="center">Developer | Building scalable web apps with MERN stack & Blockchain Learner</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 
