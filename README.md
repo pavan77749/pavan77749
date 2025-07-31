@@ -33,11 +33,11 @@
 ### ⚙️ Developer Tools:
  [![My Skills](https://skillicons.dev/icons?i=github,git,npm,vscode&theme=light)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&hide_border=true&title_color=1976D2&text_color=333333&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
