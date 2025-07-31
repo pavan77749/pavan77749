@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm Pavan Gupta</h1>
 <h3 align="center">Developer | Building scalable web apps with MERN stack & Blockchain Learner</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRqcWxkbno3YmJjbTV6bDZqOGowNGd5ZmxuemRocXlncjZkMnF6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan77749&label=Profile%20views&color=0e75b6&style=flat" alt="pavan77749" /> </p>
