@@ -37,7 +37,7 @@
  
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 ---
 
