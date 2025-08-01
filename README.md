@@ -12,9 +12,6 @@
 - 📫 How to reach me **pavangpay05@gmail.com**
 
 
-### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pavangupta_77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_s_gupta_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-gupta-956bb4265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PavanGupta68632) 
-
 ### 💻 Programming launguage:
  [![My Skills](https://skillicons.dev/icons?i=cpp,python,solidity,javascript&theme=light)](https://skillicons.dev)
 
