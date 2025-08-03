@@ -29,6 +29,8 @@
 
 ### ⚙️ Developer Tools:
  [![My Skills](https://skillicons.dev/icons?i=github,git,npm,vscode&theme=light)](https://skillicons.dev)
+ 
+###  Issues Badge
 
 <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
   <img 
