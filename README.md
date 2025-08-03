@@ -30,6 +30,16 @@
 ### ⚙️ Developer Tools:
  [![My Skills](https://skillicons.dev/icons?i=github,git,npm,vscode&theme=light)](https://skillicons.dev)
 
+<a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
+  <img 
+    src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
+    alt="Blockchain Basics Badge" 
+    width="150" 
+    style="margin-top:5px; margin-bottom:5px;" 
+  />
+</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 
