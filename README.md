@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Pavan Gupta</h1>
-<h3 align="center">Developer | Building scalable web apps with Full-stack & Blockchain Learner</h3>
+<h3 align="center">Developer | Building scalable web apps with Full-stack & Web3 Learner</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRqcWxkbno3YmJjbTV6bDZqOGowNGd5ZmxuemRocXlncjZkMnF6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
 
