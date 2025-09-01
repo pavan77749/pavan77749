@@ -40,6 +40,14 @@
     style="margin-top:5px; margin-bottom:5px;" 
   />
 </a>
+<a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/solidity">
+  <img 
+    src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" 
+    alt="Blockchain Basics Badge" 
+    width="150" 
+    style="margin-top:5px; margin-bottom:5px;" 
+  />
+</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
