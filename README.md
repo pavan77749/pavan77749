@@ -1,5 +1,21 @@
 <h1 align="center">Welcome, I'm Pavan Gupta</h1>
-<h3 align="center">Developer | Building scalable web apps with Full-stack & Blockchain Learner</h3>
+
+
+I am a **Full Stack Developer** with a passion for building **responsive, scalable, and user-friendly web applications**.  
+With strong skills in **UI/UX design (Figma)** and hands-on experience in modern frameworks, I enjoy turning ideas into practical digital solutions.  
+
+Beyond web development, I’ve also explored **Agentic AI, workflow automation (n8n)**, and **Blockchain fundamentals, Smart Contracts, and Web3 development** to stay ahead in the evolving tech space.  
+
+---
+
+## 💼 Experience & Contributions  
+
+- Hands-on experience in **frontend development** (React.js, Next.js, TailwindCSS) and **backend systems** (Node.js, Express.js, MongoDB, MySQL)  
+- Designed **UI/UX prototypes in Figma** for responsive and user-friendly applications  
+- Explored **intelligent workflow automation** using Agentic AI and n8n  
+- Learning and practicing fundamentals of **Blockchain, Smart Contracts, and Web3 applications**  
+
+---
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRqcWxkbno3YmJjbTV6bDZqOGowNGd5ZmxuemRocXlncjZkMnF6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
 
