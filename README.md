@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome, I'm Pavan Gupta</h1>
+<h1 align="center"> Welcome, I'm Pavan Gupta</h1>
 
 🚀 **Full Stack Developer** passionate about building **responsive, scalable, and user-friendly web applications**.  
 With strong expertise in **UI/UX design (Figma)** and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
@@ -14,11 +14,11 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRqcWxkbno3YmJjbTV6bDZqOGowNGd5ZmxuemRocXlncjZkMnF6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
 ### 🛠 Tech Stack
 **Languages:** C++, Python, Solidity, JavaScript, TypeScript  
 **Frontend:** React.js, Next.js, Redux, TailwindCSS, Bootstrap, Shadcn Ui
+
 **Backend:** Node.js, Express.js, MongoDB, MySQL, Redis  
 **DevOps & Tools:** Docker, AWS, Vercel, Git, GitHub, VS Code  
 **UI/UX:** Figma, Responsive Design
