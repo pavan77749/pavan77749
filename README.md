@@ -1,78 +1,65 @@
-<h1 align="center">Welcome, I'm Pavan Gupta</h1>
+<h1 align="center">👋 Welcome, I'm Pavan Gupta</h1>
 
-
-I am a **Full Stack Developer** with a passion for building **responsive, scalable, and user-friendly web applications**.  
-With strong skills in **UI/UX design (Figma)** and hands-on experience in modern frameworks, I enjoy turning ideas into practical digital solutions.  
-
-Beyond web development, I’ve also explored **Agentic AI, workflow automation (n8n)**, and **Blockchain fundamentals, Smart Contracts, and Web3 development** to stay ahead in the evolving tech space.  
+🚀 **Full Stack Developer** passionate about building **responsive, scalable, and user-friendly web applications**.  
+With strong expertise in **UI/UX design (Figma)** and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
+I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundamentals & Web3** to stay future-ready.
 
 ---
 
-## 💼 Experience & Contributions  
-
-- Hands-on experience in **frontend development** (React.js, Next.js, TailwindCSS) and **backend systems** (Node.js, Express.js, MongoDB, MySQL)  
-- Designed **UI/UX prototypes in Figma** for responsive and user-friendly applications  
-- Explored **intelligent workflow automation** using Agentic AI and n8n  
-- Learning and practicing fundamentals of **Blockchain, Smart Contracts, and Web3 applications**  
+## 💼 Experience & Focus
+- Frontend: **React.js**, **Next.js**, **TailwindCSS**  
+- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL**  
+- UI/UX: **Figma**, responsive design  
+- Exploration: **n8n workflow automation**, **Web3 Smart Contracts**
 
 ---
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRqcWxkbno3YmJjbTV6bDZqOGowNGd5ZmxuemRocXlncjZkMnF6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
+<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRqcWxkbno3YmJjbTV6bDZqOGowNGd5ZmxuemRocXlncjZkMnF6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan77749&label=Profile%20views&color=0e75b6&style=flat" alt="pavan77749" /> </p>
+### 🛠 Tech Stack
+**Languages:** C++, Python, Solidity, JavaScript, TypeScript  
+**Frontend:** React.js, Next.js, Redux, TailwindCSS, Bootstrap, Shadcn Ui
+**Backend:** Node.js, Express.js, MongoDB, MySQL, Redis  
+**DevOps & Tools:** Docker, AWS, Vercel, Git, GitHub, VS Code  
+**UI/UX:** Figma, Responsive Design
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
+## 🏆 Achievements & Awards  
+- 🥈 **Second Prize – Webhathon 2.0 Hackathon** (by 1X Hackathon)  
 
+<p align="left">
+  <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
+         alt="Blockchain Basics Badge" width="120" style="margin-right:15px;" />
+  </a>
+  <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/solidity">
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" 
+         alt="Solidity 101 Badge" width="120" style="margin-right:15px;" />
+  </a>
+</p>
 
-- 📫 How to reach me **pavangpay05@gmail.com**
+<p align="center">
+  <b>Blockchain Basics & Solidity 101 (Cyfrin Updraft)</b>
+</p>
 
+---
 
-### 💻 Programming launguage:
- [![My Skills](https://skillicons.dev/icons?i=cpp,python,solidity,javascript&theme=light)](https://skillicons.dev)
-
-### 👨‍💻 Frontent Launguage:
- [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss,react,redux,typescript,javascript,redis,bootstrap,materialui,html,css,figma&theme=light)](https://skillicons.dev)
-
-### 🕵️‍♂️ Backend Launguage:
- [![My Skills](https://skillicons.dev/icons?i=mongodb,postman,mysql,nodejs,express&theme=light)](https://skillicons.dev)
-
-### 🕵️‍♂️ DEVOPS:
- [![My Skills](https://skillicons.dev/icons?i=docker,aws,vercel&theme=light)](https://skillicons.dev)
-
-### 🎨 Designing Tools :
- [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
-
-### ⚙️ Developer Tools:
- [![My Skills](https://skillicons.dev/icons?i=github,git,npm,vscode&theme=light)](https://skillicons.dev)
- 
-### ⭐  Issues Badge by Cyfrin Updraft
-
-<a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
-  <img 
-    src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
-    alt="Blockchain Basics Badge" 
-    width="150" 
-    style="margin-top:5px; margin-bottom:5px;" 
-  />
-</a>
-<a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/solidity">
-  <img 
-    src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" 
-    alt="Blockchain Basics Badge" 
-    width="150" 
-    style="margin-top:5px; margin-bottom:5px;" 
-  />
-</a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-### 🔝 Top Contributed Repo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 ![](https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
+## 📫 Connect with Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavan0gupta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.pavangupta.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00A1F1?logo=web&style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:pavangpay05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" />
+  </a>
+</p>
