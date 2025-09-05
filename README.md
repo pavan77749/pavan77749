@@ -1,10 +1,10 @@
 <h1 align="center"> Welcome, I'm Pavan Gupta</h1>
 
-🚀 **Full Stack Developer** passionate about building **responsive, scalable, and user-friendly web applications**.  
+ **Full Stack Developer** passionate about building **responsive, scalable, and user-friendly web applications**.  
 With strong expertise in **UI/UX design (Figma)** and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
 I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundamentals & Web3** to stay future-ready.
 
----
+
 
 ## 💼 Experience & Focus
 - Frontend: **React.js**, **Next.js**, **TailwindCSS**  
@@ -12,7 +12,6 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 - UI/UX: **Figma**, responsive design  
 - Exploration: **n8n workflow automation**, **Web3 Smart Contracts**
 
----
 
 
 ### 🛠 Tech Stack
@@ -23,7 +22,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 **DevOps & Tools:** Docker, AWS, Vercel, Git, GitHub, VS Code  
 **UI/UX:** Figma, Responsive Design
 
----
+
 
 ## 🏆 Achievements & Awards  
 - 🥈 **Second Prize – Webhathon 2.0 Hackathon** (by 1X Hackathon)  
@@ -45,8 +44,10 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-![](https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark" alt="Top Languages" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" height="180" />
+</p>
 
 ---
 
