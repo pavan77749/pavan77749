@@ -25,7 +25,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 ## 🏆 Achievements & Awards  
-- 🥈 **Second Prize – Webhathon 2.0 Hackathon** (by 1X Hackathon)  
+- 🥈 **Second Prize – Webhathon 2.0 Hackathon** (1X Hackathon Winner)  
 
 <p align="left">
   <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
