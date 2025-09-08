@@ -25,7 +25,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 ## 🏆 Achievements & Awards  
-- 🥈 **Second Prize – Webhathon 2.0 Hackathon** (1X Hackathon Winner)  
+- 🥈 **Second Prize – Webhathon 2.0 Hackathon** (1x Hackathon Winner)  
 
 <p align="left">
   <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
@@ -42,14 +42,14 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
   <b>Blockchain Basics & Solidity 101 (Cyfrin Updraft)</b>
 </p>
 
----
+--
 
 <p align="center ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark" alt="Top Languages" height="180" />
   <img src="https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" height="180" />
 </p>
 
----
+----
 
 ## 📫 Connect with Me
 
