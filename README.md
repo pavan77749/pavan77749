@@ -49,7 +49,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
   <img src="https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" height="180" />
 </p>
 
-----
+
 
 ## 📫 Connect with Me
 
