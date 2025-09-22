@@ -42,7 +42,6 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
   <b>Blockchain Basics & Solidity 101 (Cyfrin Updraft)</b>
 </p>
 
----
 
 <p align="center ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark" alt="Top Languages" height="180" />
