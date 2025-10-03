@@ -6,7 +6,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 
-## 💼 Experience  Focus
+## 💼 Experience & Focus
 - Frontend: **React.js**, **Next.js**, **TailwindCSS**  
 - Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL**  
 - UI/UX: **Figma**, responsive design  
