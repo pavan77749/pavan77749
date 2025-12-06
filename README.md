@@ -49,7 +49,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 </p>
 
 <p align="center">
-  <b>Blockchain Basics & Solidity 101 (Cyfrin Updraft)</b>
+  <b>Courses Completed on (Cyfrin Updraft)</b>
 </p>
 
 ##
