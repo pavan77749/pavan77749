@@ -6,7 +6,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 
-## 💼 Experience & Focus
+##  Experience & Focus
 - Frontend: **React.js**, **Next.js**, **TailwindCSS**  
 - Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL**  
 - UI/UX: **Figma**, responsive design  
@@ -14,7 +14,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 
-### 🛠 Tech Stack
+###  Tech Stack
 **Languages:** C++, Python, Solidity, JavaScript, TypeScript  
 **Frontend:** React.js, Next.js, Redux, TailwindCSS, Bootstrap, Shadcn Ui
 
@@ -24,7 +24,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 
-## 🏆 Achievements & Awards  
+##  Achievements & Awards  
 - 🥈 **Second Prize – Webhathon 2.0 Hackathon** (1x Hackathon Winner)  
 
 <p align="left">
