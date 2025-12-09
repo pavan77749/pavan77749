@@ -62,10 +62,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 ##
 
-<p align="center ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=dark" alt="Top Languages" height="180" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=pavan77749&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" height="180" />
-</p>
+
 
 
 
