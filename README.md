@@ -50,6 +50,10 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
     <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/zk-fundamentals-1749211573.png" 
          alt="Solidity 101 Badge" width="120" style="margin-right:15px;" />
   </a>
+    <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/chainlink-fundamentals">
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/course_badge/chainlink-badge.png" 
+         alt="Solidity 101 Badge" width="120" style="margin-right:15px;" />
+  </a>
 </p>
 
 <p align="center">
