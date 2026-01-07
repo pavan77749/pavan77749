@@ -7,10 +7,10 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 ##  Experience & Focus
-- Frontend: **React.js**, **Next.js**, **TailwindCSS**  
-- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL**  
-- UI/UX: **Figma**, responsive design  
-- Exploration: **n8n workflow automation**, **Web3 Smart Contracts**
+- Frontend: **React.js**, **Next.js**, **TailwindCSS** , **Framer Motion**, **GSAP** , **Shadcnui** , **CSS**
+- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** , **GEN AI**, **Langchain** , **Ollama** , **RAG** , **FLASK**, **PYTEST**  
+- UI/UX: **Figma**, **responsive design** 
+- Exploration:  **Web3 development**
 
 
 
