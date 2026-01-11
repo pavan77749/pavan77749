@@ -57,7 +57,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 </p>
 
 <p align="center">
-  <b>Courses Completed on (Cyfrin Updraft)</b>
+  <b>Courses Completed on - (Cyfrin Updraft)</b>
 </p>
 
 ##
