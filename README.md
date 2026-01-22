@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome, I'm Pavan Gupta</h1>
 
  **Full Stack Developer** passionate about building **responsive, scalable** , and **user-friendly web applications**.  
-With strong expertise in **UI/UX design (Figma)** and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
+With strong expertise in **UI/UX design ** and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
 I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundamentals & Web3** to stay future-ready.
 
 
