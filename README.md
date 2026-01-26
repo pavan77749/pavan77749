@@ -16,7 +16,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 ###  Tech Stack
 **Languages:** C++, Python, Solidity, JavaScript, TypeScript  
-**Frontend:** React.js, Next.js, Redux, TailwindCSS, Bootstrap, Shadcn Ui
+**Frontend:** React.js, Next.js, Redux, TailwindCSS, Shadcn Ui
 
 **Backend:** Node.js, Express.js, MongoDB, MySQL, Redis  
 **DevOps & Tools:** Docker, AWS, Vercel, Git, GitHub, VS Code  
