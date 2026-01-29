@@ -14,7 +14,7 @@ I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundam
 
 
 
-###  Tech Stack
+###  Tech Stacks
 **Languages:** C++, Python, Solidity, JavaScript, TypeScript  
 **Frontend:** React.js, Next.js, Redux, TailwindCSS, Shadcn Ui
 
