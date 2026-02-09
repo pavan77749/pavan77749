@@ -2,7 +2,7 @@
 
  **Full Stack Developer** passionate about building **responsive, scalable** , and **user-friendly web applications**.  
 With strong expertise in UI design and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
-I’m also exploring **Agentic AI**, **n8n automation**, and **Blockchain fundamentals & Web3** .
+I’m also exploring **Agentic AI**, and **Blockchain fundamentals & Web3** .
 
 
 
