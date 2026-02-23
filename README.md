@@ -1,8 +1,25 @@
 <h1 align="center"> Welcome, I'm Pavan Gupta</h1>
 
- **Full Stack Developer** passionate about building **responsive, scalable** , and **user-friendly web applications**.  
-With strong expertise in UI design and modern frameworks, I enjoy turning ideas into clean, practical digital solutions.  
-I’m also exploring **Agentic AI**, and **Blockchain fundamentals & Web3** .
+I help startups and growing businesses build **high-performance web applications** using 
+**Next.js, Node.js, Express, Flask, and Python**.
+
+Experienced in developing **secure SaaS platforms**, **admin dashboards**, and 
+**landing pages** with **payment integration** and **role-based access control (RBAC)**.
+
+I focus on building **scalable, responsive systems** that improve 
+**application performance** and streamline **internal workflows**.
+
+What I Can Help You With:
+
+1. **SaaS Application Development**
+2. **Admin Dashboard Development**
+3. **Secure Authentication (JWT)**
+4. **Role-Based Access Control (RBAC)**
+5. **Payment Integration**
+6. **REST API Development & Integration**
+7. **Landing Page Development**
+8. **Performance Optimization**
+9. **Responsive UI (TailwindCSS)**
 
 
 
