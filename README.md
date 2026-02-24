@@ -25,8 +25,9 @@ What I Can Help You With:
 
 ##  Experience & Focus
 - Frontend: **React.js**, **Next.js**, **TailwindCSS** , **Framer Motion**, **GSAP** , **Shadcnui** , **CSS**
-- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** , **GEN AI**, **Langchain** , **Ollama** , **RAG** , **FLASK**
-- UI/UX: **Figma**, **responsive design** 
+- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** , **GEN AI**, **Langchain** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
+- UI/UX: **Figma**, **responsive design**
+- Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel**
 - Exploration:  **Web3 development**
 
 
