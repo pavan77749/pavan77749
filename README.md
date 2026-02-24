@@ -24,22 +24,12 @@ What I Can Help You With:
 
 
 ##  Experience & Focus
-- Frontend: **React.js**, **Next.js**, **TailwindCSS** , **Framer Motion**, **GSAP** , **Shadcnui** , **CSS**
-- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** , **GEN AI**, **Langchain** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
+- Languages: **C++**, **Python**, **Solidity**, **Javascript** , **TypeScript**
+- Frontend: **React.js**, **Next.js**, **TailwindCSS** , **Framer Motion**, **GSAP** , **Shadcnui** , **CSS** , **State Management**
+- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** , **Redis** , **GEN AI**, **Langchain** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
 - UI/UX: **Figma**, **responsive design**
-- Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel**
+- Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel** , **Slack**
 - Exploration:  **Web3 development**
-
-
-
-###  Tech Stacks
-**Languages:** C++, Python, Solidity, JavaScript, TypeScript  
-**Frontend:** React.js, Next.js, Redux, TailwindCSS, Shadcn Ui
-
-**Backend:** Node.js, Express.js, MongoDB, MySQL, Redis  
-**DevOps & Tools:** Docker, AWS, Vercel, Git, GitHub, VS Code  
-**UI/UX:** Figma, Responsive Design
-
 
 
 ##  Achievements & Awards  
