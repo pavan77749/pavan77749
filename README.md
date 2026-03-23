@@ -9,19 +9,6 @@ Experienced in developing **secure SaaS platforms**, **admin dashboards**, and
 I focus on building **scalable, responsive systems** that improve 
 **application performance** and streamline **internal workflows**.
 
-What I Can Help You With:
-
-1. **SaaS Application Development**
-2. **Admin Dashboard Development**
-3. **Secure Authentication (JWT)**
-4. **Role-Based Access Control (RBAC)**
-5. **Payment Integration**
-6. **REST API Development & Integration**
-7. **Landing Page Development**
-8. **Performance Optimization**
-9. **Responsive UI (TailwindCSS)**
-
-
 
 ##  Experience & Focus
 - Languages: **C++**, **Python**, **Solidity**, **Javascript** , **TypeScript**
