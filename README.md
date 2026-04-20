@@ -20,7 +20,9 @@ I focus on building **scalable, responsive systems** that improve
 
 
 ##  Achievements & Awards  
-- **Second Prize – Webhathon 2.0 Hackathon** (1x Hackathon Winner)  
+**2x Hackathon Winner**
+- **Second Prize – Webhathon 2.0 Hackathon** 
+- **First-Runner-Up - Hackathon Winner**  
 
 <p align="left">
   <a href="https://profiles.cyfrin.io/u/pavangpay05/achievements/blockchain-basics">
