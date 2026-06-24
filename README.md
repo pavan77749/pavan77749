@@ -18,6 +18,17 @@ I focus on building **scalable, responsive systems** that improve
 - Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel** , **Slack**
 - Exploration:  **Web3 development**
 
+## My Programming Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+</p>
+
+
+
 
 ##  Achievements & Awards  
 **2x Hackathon Winner**
