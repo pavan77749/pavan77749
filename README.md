@@ -20,12 +20,7 @@ I focus on building **scalable, responsive systems** that improve
 
 ## My Programming Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=tokyonight)
 
 
 
