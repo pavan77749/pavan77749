@@ -1,13 +1,8 @@
 <h1 align="center"> Welcome, I'm Pavan Gupta</h1>
 
-I help startups and growing businesses build **high-performance web applications** using 
-**Next.js, Node.js, Express, Flask, and Python**.
-
-Experienced in developing **secure SaaS platforms**, **admin dashboards**, and 
-**landing pages** with **payment integration** and **role-based access control (RBAC)**.
-
-I focus on building **scalable, responsive systems** that improve 
-**application performance** and streamline **internal workflows**.
+I'm a Software Development Engineer (SDE) with experience in Full Stack Development, Digital Forensics, and Security. I build scalable, secure, and high-performance web applications using Next.js, React, Flask, Python, Node.js, Express.js, and Tailwind CSS.
+My work focuses on developing surveillance and digital forensics solutions with a security-first mindset. I contribute across the full development lifecycle—from building responsive user interfaces and backend services to designing REST APIs, integrating databases, and delivering production-ready applications.
+I'm also expanding my expertise in Blockchain, Smart Contracts, and On-Chain development to build the next generation of decentralized and secure applications.
 
 
 ##  Experience & Focus
