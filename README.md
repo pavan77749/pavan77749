@@ -13,11 +13,6 @@ I'm also expanding my expertise in Blockchain, Smart Contracts, and On-Chain dev
 - Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel** , **Slack**
 - Exploration:  **Web3 development**
 
-## My Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan77749&layout=compact&theme=tokyonight)
-
-
 
 
 ##  Achievements & Awards  
