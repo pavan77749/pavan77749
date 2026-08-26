@@ -8,7 +8,7 @@ I'm also expanding my expertise in Blockchain, Smart Contracts, and On-Chain dev
 ##  Experience & Focus
 - Languages: **C++**, **Python**, **Solidity**, **Javascript** , **TypeScript**
 - Frontend: **React.js**, **Next.js**, **TailwindCSS** , **Framer Motion**, **GSAP** , **Shadcnui** , **CSS** , **State Management**
-- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** ,**Langchain** , **Langgraph**, **MCP** , **Redis** , **GEN AI**, **Langchain** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
+- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** ,**Langchain** , **Langgraph**, **MCP** , **Redis** , **GEN AI** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
 - UI/UX: **Figma**, **responsive design**
 - Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel** , **Slack**
 - Exploration:  **Web3 development**
