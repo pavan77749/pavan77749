@@ -1,8 +1,8 @@
-<h1 align="center"> Welcome, I'm Pavan Gupta</h1>
+<h1 align="center"> Hi, I'm Pavan</h1>
 
-I'm a Software Development Engineer (SDE) with experience in Full Stack Development, Digital Forensics, and Security. I build scalable, secure, and high-performance web applications using Next.js, React, Flask, Python, Node.js, Express.js, and Tailwind CSS.
-My work focuses on developing surveillance and digital forensics solutions with a security-first mindset. I contribute across the full development lifecycle—from building responsive user interfaces and backend services to designing REST APIs, integrating databases, and delivering production-ready applications.
-I'm also expanding my expertise in Blockchain, Smart Contracts, and On-Chain development to build the next generation of decentralized and secure applications.
+Software Development Engineer at Karpuragaurai Technologies. Most of what I build is full stack — Next.js and React up front, Node.js, Express and Flask behind them, with PostgreSQL, Prisma and MongoDB for data.
+Recent work: SahiHisab, a live accounting SaaS for small businesses with subscription tiers and Razorpay payments. Before that, a Spotify clone split into discrete microservices on AWS EC2, and LiveSphere, a real-time video platform with video calls and screen sharing.
+On-chain, I've completed Cyfrin Updraft's Solidity, Foundry, Chainlink and zero-knowledge proof tracks, and write contracts with Hardhat and Ethers.js.
 
 
 ##  Experience & Focus
