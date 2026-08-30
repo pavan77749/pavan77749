@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Pavan</h1>
+<h1 align="center"> Hi, I'm Pavan Gupta</h1>
 
 Software Development Engineer at Karpuragaurai Technologies. Most of what I build is full stack — Next.js and React up front, Node.js, Express and Flask behind them, with PostgreSQL, Prisma and MongoDB for data.
 Recent work: SahiHisab, a live accounting SaaS for small businesses with subscription tiers and Razorpay payments. Before that, a Spotify clone split into discrete microservices on AWS EC2, and LiveSphere, a real-time video platform with video calls and screen sharing.
