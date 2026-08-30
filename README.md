@@ -65,7 +65,7 @@ On-chain, I've completed Cyfrin Updraft's Solidity, Foundry, Chainlink and zero-
   <a href="https://www.linkedin.com/in/pavan0gupta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://pavan-gules.vercel.app/" target="_blank">
+  <a href="https://www.pavangupta.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00A1F1?logo=web&style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:pavangpay05@gmail.com">
