@@ -8,7 +8,7 @@ On-chain, I've completed Cyfrin Updraft's Solidity, Foundry, Chainlink and zero-
 ##  Experience & Focus
 - Languages: **C++**, **Python**, **Solidity**, **Javascript** , **TypeScript**
 - Frontend: **React.js**, **Next.js**, **TailwindCSS** , **Framer Motion**, **GSAP** , **Shadcnui** , **CSS** , **State Management**
-- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** ,**Langchain** , **Langgraph**, **MCP** , **Redis** , **GEN AI** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
+- Backend: **Node.js**, **Express.js**, **MongoDB**, **MySQL** ,**Langchain**, **FastAPI**  , **Langgraph**, **MCP** , **Redis** , **GEN AI** , **Ollama** , **RAG** , **FLASK** , **AWS Services** ,**CND**
 - UI/UX: **Figma**, **responsive design**
 - Tools :  **VS CODE** , **Postman** , **Swagger docs** , **Vercel** , **Slack**
 - Exploration:  **Web3 development**
