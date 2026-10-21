@@ -1,8 +1,12 @@
 <h1 align="center"> Hi, I'm Pavan Gupta</h1>
 
-Software Development Engineer at Karpuragaurai Technologies. Most of what I build is full stack — Next.js and React up front, Node.js, Express and Flask behind them, with PostgreSQL, Prisma and MongoDB for data.
-Recent work: SahiHisab, a live accounting SaaS for small businesses with subscription tiers and Razorpay payments. Before that, a Spotify clone split into discrete microservices on AWS EC2, and LiveSphere, a real-time video platform with video calls and screen sharing.
-On-chain, I've completed Cyfrin Updraft's Solidity, Foundry, Chainlink and zero-knowledge proof tracks, and write contracts with Hardhat and Ethers.js.
+Software Development Engineer at Karpuragaurai Technologies, building full-stack applications and AI-powered solutions using Next.js, React, Node.js, Express, Flask, FastAPI, PostgreSQL, Prisma, and MongoDB.
+
+Recently built **TradhaLab**, a paper-trading platform featuring live market data, interactive charts, historical market replay, trade journaling, and performance analytics to help traders practise strategies and develop disciplined trading habits. Launched the beta and reached 400+ users.
+
+Also developed **SahiHisab**, a live accounting SaaS for small businesses with subscription tiers and Razorpay payments; a Spotify clone using microservices deployed on AWS EC2; and **LiveSphere**, a real-time video platform supporting video calls and screen sharing.
+
+Completed Cyfrin Updraft learning tracks in Solidity, Foundry, Chainlink, and zero-knowledge proofs. Experienced in smart contract development using Hardhat and Ethers.js.
 
 
 ##  Experience & Focus
